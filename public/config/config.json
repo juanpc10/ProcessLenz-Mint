@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7dF2051B0AdAB62604Bb3aDaeB39e697Ff537F91",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x7df2051b0adab62604bb3adaeb39e697ff537f91",
+  "NETWORK": {
+    "NAME": "rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "The Genesis Robots",
+  "SYMBOL": "PRZL",
+  "MAX_SUPPLY": 8,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.018,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/the-robots-genesis-przl",
+  "SHOW_BACKGROUND": true
+}
